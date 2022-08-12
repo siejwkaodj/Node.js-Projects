@@ -1,0 +1,27 @@
+*{  
+    margin:0;
+    font-family: 'Fira sans', sans-serif;
+    /* display: flex; */
+}
+.sudoku-board{
+    display:flex;
+    /* margin: auto; */
+    align-items: center;
+    background-color: #8e57bf;
+}
+.row{
+    /* display:flex;*/
+    align-items: center;
+    margin: auto;
+    height:30px;
+    width:300px;
+    background-color: #8e57bf;
+}
+
+.input{
+    width: 20px;
+    height: 20px;
+    margin:0px;
+    padding: 0px;
+    
+}
